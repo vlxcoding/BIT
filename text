@@ -1,0 +1,244 @@
+<i>
+	<footer class="footer clearfix" style=" background-color :#f8f7f6;" id="footer"><div class="footer_top-area widgets_area column_3 align-center"><div class="wgl-container"><div class="row" style=" padding-top:90px; padding-bottom:10px;">	                		<div class="wgl_col-4">
+	                			<div id="text-2" class="widget integrio_widget widget_text">			<div class="textwidget"><p><img class="alignnone wp-image-2082" src="https://bluedotinsights.com/wp-content/uploads/2020/05/bluedot.png" alt="" width="236" height="72"><br>
+</p><ul class="social-icons-lists icons-background-square">
+
+			
+				<li class="social-icons-list-item">
+					<a href="https://www.facebook.com/bluedotdata" class="social-icon">
+						<span class="socicon socicon-facebook" style="padding: 10px; font-size: 16px; background-color: #3e5b98"></span>
+
+											</a>
+				</li>
+
+			
+				<li class="social-icons-list-item">
+					<a href="https://www.instagram.com/bluedotinsights/" class="social-icon">
+						<span class="socicon socicon-instagram" style="padding: 10px; font-size: 16px; background-color: #9c7c6e"></span>
+
+											</a>
+				</li>
+
+			
+				<li class="social-icons-list-item">
+					<a href="https://www.linkedin.com/company/blue-dot-data-intelligence/?originalSubdomain=jm" class="social-icon">
+						<span class="socicon socicon-linkedin" style="padding: 10px; font-size: 16px; background-color: #3371b7"></span>
+
+											</a>
+				</li>
+
+			
+				<li class="social-icons-list-item">
+					<a href="https://twitter.com/bluedotinsights?lang=en" class="social-icon">
+						<span class="socicon socicon-twitter" style="padding: 10px; font-size: 16px; background-color: #4da7de"></span>
+
+											</a>
+				</li>
+
+			
+		</ul><p></p>
+</div>
+		</div>	                        </div>
+	                        	                		<div class="wgl_col-4">
+	                			<div id="text-4" class="widget integrio_widget widget_text"><div class="widget-title"><span class="widget-title_wrapper"><span class="widget-title_inner">CONTACT</span></span></div>			<div class="textwidget"><div class="wpb_text_column wpb_content_element ">
+<div class="wpb_wrapper"><a href="mailto:info@bluedotinsights.com">info@bluedotinsights.com</a></div>
+</div>
+<div></div>
+<div>(876) 672-4954</div>
+<div></div>
+</div>
+		</div><div id="text-6" class="widget integrio_widget widget_text"><div class="widget-title"><span class="widget-title_wrapper"><span class="widget-title_inner">Enquiry</span></span></div>			<div class="textwidget"><p><strong><a href="http://bluedotinsights.com/enquiry/">Submit your Enquiry</a></strong></p>
+</div>
+		</div>	                        </div>
+	                        	                		<div class="wgl_col-4">
+	                			<div id="text-3" class="widget integrio_widget widget_text"><div class="widget-title"><span class="widget-title_wrapper"><span class="widget-title_inner">LOCATION</span></span></div>			<div class="textwidget"><div class="wpb_text_column wpb_content_element ">
+<div class="wpb_wrapper">
+<p>73 Harbor Street, Kingston, Kingston Jamaica</p>
+</div>
+</div>
+</div>
+		</div>	                        </div>
+	                        </div></div></div>    		<div class="copyright" style="background-color:#f8f7f6;">
+                <div class="wgl-container">                	<div class="row" style="padding-top:20px;padding-bottom:20px;">
+                       <div class="wgl_col-12">
+                       <p><span>Bluedot (2022) Ltd | Copyright © 2022 All Rights Reserved</span></p>                       </div>
+                	</div>
+                </div>            </div>
+            </footer><a href="#" id="scroll_up" class="active"></a><script type="text/html" id="wpb-modifications"></script><link href="https://fonts.googleapis.com/css?family=Poppins:700%2C800%2C400%2C600%2C500%2C200%7CRoboto:400%7CMuli:700%2C800%2C400" rel="stylesheet" property="stylesheet" media="all" type="text/css">
+
+		<script type="text/javascript">
+		if(typeof revslider_showDoubleJqueryError === "undefined") {
+			function revslider_showDoubleJqueryError(sliderID) {
+				var err = "<div class='rs_error_message_box'>";
+				err += "<div class='rs_error_message_oops'>Oops...</div>";
+				err += "<div class='rs_error_message_content'>";
+				err += "You have some jquery.js library include that comes after the Slider Revolution files js inclusion.<br>";
+				err += "To fix this, you can:<br>&nbsp;&nbsp;&nbsp; 1. Set 'Module General Options' -> 'Advanced' -> 'jQuery & OutPut Filters' -> 'Put JS to Body' to on";
+				err += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jQuery.js inclusion and remove it";
+				err += "</div>";
+			err += "</div>";
+				jQuery(sliderID).show().html(err);
+			}
+		}
+		</script>
+		<script type="text/javascript">
+		if(typeof revslider_showDoubleJqueryError === "undefined") {
+			function revslider_showDoubleJqueryError(sliderID) {
+				var err = "<div class='rs_error_message_box'>";
+				err += "<div class='rs_error_message_oops'>Oops...</div>";
+				err += "<div class='rs_error_message_content'>";
+				err += "You have some jquery.js library include that comes after the Slider Revolution files js inclusion.<br>";
+				err += "To fix this, you can:<br>&nbsp;&nbsp;&nbsp; 1. Set 'Module General Options' -> 'Advanced' -> 'jQuery & OutPut Filters' -> 'Put JS to Body' to on";
+				err += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jQuery.js inclusion and remove it";
+				err += "</div>";
+			err += "</div>";
+				jQuery(sliderID).show().html(err);
+			}
+		}
+		</script>
+<link rel="stylesheet" id="vc_carousel_css-css" href="https://bluedotinsights.com/wp-content/plugins/js_composer/assets/lib/vc_carousel/css/vc_carousel.min.css?ver=6.1" type="text/css" media="all">
+<link rel="stylesheet" id="prettyphoto-css" href="https://bluedotinsights.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/css/prettyPhoto.min.css?ver=6.1" type="text/css" media="all">
+<script type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/bluedotinsights.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://bluedotinsights.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.9"></script>
+<script type="text/javascript" src="https://bluedotinsights.com/wp-content/themes/integrio/js/theme-addons.js?ver=5.4.14"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wgl_core = {"ajaxurl":"https:\/\/bluedotinsights.com\/wp-admin\/admin-ajax.php","slickSlider":"https:\/\/bluedotinsights.com\/wp-content\/themes\/integrio\/js\/slick.min.js","JarallaxPlugin":"https:\/\/bluedotinsights.com\/wp-content\/themes\/integrio\/js\/jarallax-video.min.js","JarallaxPluginVideo":"https:\/\/bluedotinsights.com\/wp-content\/themes\/integrio\/js\/jarallax.min.js","like":"Like","unlike":"Unlike"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://bluedotinsights.com/wp-content/themes/integrio/js/theme.js?ver=5.4.14"></script>
+<script type="text/javascript" src="https://bluedotinsights.com/wp-includes/js/wp-embed.min.js?ver=5.4.14"></script>
+<script type="text/javascript" src="https://bluedotinsights.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.1"></script>
+<script type="text/javascript" src="https://bluedotinsights.com/wp-content/themes/integrio/js/jquery.paroller.min.js?ver=5.4.14"></script>
+<script type="text/javascript" src="https://bluedotinsights.com/wp-content/plugins/js_composer/assets/lib/vc_carousel/js/transition.min.js?ver=6.1"></script>
+<script type="text/javascript" src="https://bluedotinsights.com/wp-content/plugins/js_composer/assets/lib/vc_carousel/js/vc_carousel.min.js?ver=6.1"></script>
+<script type="text/javascript" src="https://bluedotinsights.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/js/jquery.prettyPhoto.min.js?ver=6.1"></script>
+<script type="text/javascript" id="wgl_custom_footer_js"></script>    
+
+</i>
+
+
+<div class="elementor-widget-container">
+			<div class="special-text special-text-effect-stroke">since 2010</div>		</div>
+
+
+            --wp--preset--font-size--normal: 16px;
+    --wp--preset--font-size--huge: 42px;
+    --page-title-display: block;
+    --wpforms-field-border-radius: 3px;
+    --wpforms-field-background-color: #ffffff;
+    --wpforms-field-border-color: rgba( 0, 0, 0, 0.25 );
+    --wpforms-field-text-color: rgba( 0, 0, 0, 0.7 );
+    --wpforms-label-color: rgba( 0, 0, 0, 0.85 );
+    --wpforms-label-sublabel-color: rgba( 0, 0, 0, 0.55 );
+    --wpforms-label-error-color: #d63637;
+    --wpforms-button-border-radius: 3px;
+    --wpforms-button-background-color: #066aab;
+    --wpforms-button-text-color: #ffffff;
+    --wpforms-field-size-input-height: 43px;
+    --wpforms-field-size-input-spacing: 15px;
+    --wpforms-field-size-font-size: 16px;
+    --wpforms-field-size-line-height: 19px;
+    --wpforms-field-size-padding-h: 14px;
+    --wpforms-field-size-checkbox-size: 16px;
+    --wpforms-field-size-sublabel-spacing: 5px;
+    --wpforms-field-size-icon-size: 1;
+    --wpforms-label-size-font-size: 16px;
+    --wpforms-label-size-line-height: 19px;
+    --wpforms-label-size-sublabel-font-size: 14px;
+    --wpforms-label-size-sublabel-line-height: 17px;
+    --wpforms-button-size-font-size: 17px;
+    --wpforms-button-size-height: 41px;
+    --wpforms-button-size-padding-h: 15px;
+    --wpforms-button-size-margin-top: 10px;
+    --wp--preset--color--black: #000000;
+    --wp--preset--color--cyan-bluish-gray: #abb8c3;
+    --wp--preset--color--white: #ffffff;
+    --wp--preset--color--pale-pink: #f78da7;
+    --wp--preset--color--vivid-red: #cf2e2e;
+    --wp--preset--color--luminous-vivid-orange: #ff6900;
+    --wp--preset--color--luminous-vivid-amber: #fcb900;
+    --wp--preset--color--light-green-cyan: #7bdcb5;
+    --wp--preset--color--vivid-green-cyan: #00d084;
+    --wp--preset--color--pale-cyan-blue: #8ed1fc;
+    --wp--preset--color--vivid-cyan-blue: #0693e3;
+    --wp--preset--color--vivid-purple: #9b51e0;
+    --wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);
+    --wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);
+    --wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);
+    --wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);
+    --wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);
+    --wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);
+    --wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);
+    --wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);
+    --wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);
+    --wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);
+    --wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);
+    --wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);
+    --wp--preset--font-size--small: 13px;
+    --wp--preset--font-size--medium: 20px;
+    --wp--preset--font-size--large: 36px;
+    --wp--preset--font-size--x-large: 42px;
+    --wp--preset--spacing--20: 0.44rem;
+    --wp--preset--spacing--30: 0.67rem;
+    --wp--preset--spacing--40: 1rem;
+    --wp--preset--spacing--50: 1.5rem;
+    --wp--preset--spacing--60: 2.25rem;
+    --wp--preset--spacing--70: 3.38rem;
+    --wp--preset--spacing--80: 5.06rem;
+    --wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);
+    --wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);
+    --wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);
+    --wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);
+    --wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);
+    font-family: Mulish, Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 1.777em;
+    text-transform: none;
+    letter-spacing: 0em;
+    word-spacing: 0px;
+    font-style: normal;
+    font-weight: 400;
+    --e-global-color-primary: #ABAFB5;
+    --e-global-color-secondary: #17262F;
+    --e-global-color-text: #4A5257;
+    --e-global-color-accent: #E66445;
+    --e-global-typography-primary-font-family: "Roboto";
+    --e-global-typography-primary-font-weight: 600;
+    --e-global-typography-secondary-font-family: "Roboto Slab";
+    --e-global-typography-secondary-font-weight: 400;
+    --e-global-typography-text-font-family: "Roboto";
+    --e-global-typography-text-font-weight: 400;
+    --e-global-typography-accent-font-family: "Roboto";
+    --e-global-typography-accent-font-weight: 500;
+    color: #4a5257;
+    --flex-direction: initial;
+    --flex-wrap: initial;
+    --justify-content: initial;
+    --align-items: initial;
+    --align-content: initial;
+    --gap: initial;
+    --flex-basis: initial;
+    --flex-grow: initial;
+    --flex-shrink: initial;
+    --order: initial;
+    --align-self: initial;
+    --swiper-theme-color: #000;
+    --swiper-navigation-size: 44px;
+    --swiper-pagination-bullet-size: 6px;
+    --swiper-pagination-bullet-horizontal-gap: 6px;
+    --widgets-spacing: 30px;
+    box-sizing: border-box;
+    transition: background .3s,border .3s,border-radius .3s,box-shadow .3s,transform var(--e-transform-transition-duration,.4s);
+    text-align: center;
+
+
+    ///
+
+
+
+

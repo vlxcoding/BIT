@@ -8,7 +8,7 @@
 
 .site-header {
   position: relative;
-  background-color: #FBFA5B;
+  background-color: #fff;
 
 }
 
@@ -26,7 +26,7 @@
     .site-header__wrapper {
       padding-top: 0;
       padding-bottom: 0; } }
-@media (min-width: 800px) {
+      @media (min-width: 800px) {
   .nav__wrapper {
     display: flex; } }
 
@@ -53,7 +53,7 @@
   font-weight: 600;
 }
 .nav__item a:hover{
-  background:#fff;
+  background: #222;
   transition: 0.5s;
 
 }
